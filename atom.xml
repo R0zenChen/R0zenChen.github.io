@@ -3,11 +3,11 @@
   <title>Rozen&#39;s Blog</title>
   
   
-  <link href="https://r0zenchen.github.io/RozenChen.github.io/atom.xml" rel="self"/>
+  <link href="https://rozenchen.github.io/atom.xml" rel="self"/>
   
-  <link href="https://r0zenchen.github.io/RozenChen.github.io/"/>
+  <link href="https://rozenchen.github.io/"/>
   <updated>2024-12-04T11:48:15.079Z</updated>
-  <id>https://r0zenchen.github.io/RozenChen.github.io/</id>
+  <id>https://rozenchen.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://r0zenchen.github.io/RozenChen.github.io/2024/12/04/hello-world/"/>
-    <id>https://r0zenchen.github.io/RozenChen.github.io/2024/12/04/hello-world/</id>
+    <link href="https://rozenchen.github.io/2024/12/04/hello-world/"/>
+    <id>https://rozenchen.github.io/2024/12/04/hello-world/</id>
     <published>2024-12-04T11:48:15.079Z</published>
     <updated>2024-12-04T11:48:15.079Z</updated>
     
